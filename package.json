@@ -1,0 +1,25 @@
+{
+  "name": "javacourse",
+  "version": "0.1.0",
+  "description": "This module allows for a dyanmic footer to be generated for JS applications with an updated year and name.n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReadyEdwin/JavaCourse.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Edwin Nunez <edwinjnunez4@gmail.com> (https://www.npmjs.com/~readyeddy10)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReadyEdwin/JavaCourse/issues"
+  },
+  "homepage": "https://github.com/ReadyEdwin/JavaCourse#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
